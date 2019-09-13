@@ -1,6 +1,8 @@
 ============================================================
 Abstract syntax trees (ASTs)
 ============================================================
+This code creates a parse treee - syntax analysis of a compiler - from some C source code.
+
 
 EXAMPLES:
 
