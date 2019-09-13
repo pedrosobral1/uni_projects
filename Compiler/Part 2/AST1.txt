@@ -1,0 +1,68 @@
+ INT:
+   x
+
+ x
+ :=
+ +
+    3
+    2
+
+
+ INT:
+   y
+   :=
+    2
+
+
+ INT:
+   z
+
+ z
+   :=
+    x
+
+
+ PRINTF:
+      y
+
+
+ PRINTF:
+      +
+         1
+         2
+
+
+ IF:
+   &&
+      ==
+         0
+         0
+      ==
+         3
+         3
+      PRINTF:
+            x
+
+ ELSE:
+      SCANF:
+           z
+ END
+
+ WHILE:
+   !=
+      0
+      0
+      PRINTF:
+            x
+
+ END
+
+ IF:
+   ==
+      0
+      0
+      PRINTF:
+            z
+
+ END
+
