@@ -2,7 +2,7 @@
 Abstract syntax trees (ASTs)
 ============================================================
 
-This code creates a parse treee - syntax analysis of a compiler - from some C source code.
+This code prints a parse treee - syntax analysis of a compiler - from some C source code.
 
 You'll need Bison and Flex. To install them you just:
    sudo apt-get update
