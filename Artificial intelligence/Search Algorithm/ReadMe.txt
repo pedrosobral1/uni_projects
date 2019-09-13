@@ -5,9 +5,9 @@
    \/_/ /_/   \/_____/   \/_/\/_/   \/____/   \/_/  \/_/   \/_____/ 
                                                                    
 //=================================================================//
-Faculdade de Ciências da Universidade do Porto - Departamento de Ciências e Computadores
+Faculdade de CiÃªncias da Universidade do Porto - Departamento de CiÃªncias e Computadores
 
-João Aguiar - up201606361
+JoÃ£o Aguiar - up201606361
 Pedro Sobral - up201305467
 
 //=================================================================//
